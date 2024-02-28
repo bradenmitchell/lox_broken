@@ -25,6 +25,7 @@ AlignEscapedNewlines: Left
 AllowShortCaseLabelsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: Empty
 AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
 
 IndentCaseLabels: true
 
