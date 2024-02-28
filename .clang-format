@@ -15,7 +15,7 @@ Language: Cpp
 # // clang-format on
 # void formatted_code_again;
 
-AlignConsecutiveAssignments: AcrossEmptyLines
+AlignConsecutiveAssignments: Consecutive
 AlignConsecutiveMacros: AcrossEmptyLines
 AlignConsecutiveShortCaseStatements:
   Enabled: true
