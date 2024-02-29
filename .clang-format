@@ -19,6 +19,7 @@ AlignConsecutiveAssignments: Consecutive
 AlignConsecutiveMacros: AcrossEmptyLines
 AlignConsecutiveShortCaseStatements:
   Enabled: true
+  AcrossComments: true
 
 AlignEscapedNewlines: Left
 
